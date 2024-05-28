@@ -1,0 +1,1 @@
+A basic web api using Flask with Python. Since this was just practice to get back up to speed with flask, I used an in-memory dict to simulate a database.
